@@ -1,6 +1,6 @@
 # Real-time Gait Analysis with 3D Augmented Reality Body Tracking
 
-![Gait Analysis UI](GiatAnalysisUI.png)
+![Gait Analysis UI](GaitAnalysisUI.png)
 
 ## Introduction
 
