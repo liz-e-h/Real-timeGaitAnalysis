@@ -2,10 +2,6 @@
 
 ![Gait Analysis UI](GaitAnalysisUI.png)
 
-## Introduction
-
-Gait analysis is a critical tool in clinical rehabilitation, offering valuable insights into human movement during walking and aiding in the assessment of functional limitations and impairments following injury, illness, or surgery. This project aims to develop a real-time gait analysis system using 3D augmented reality body tracking with the Microsoft Azure Kinect camera. The system utilizes machine learning to classify gait phases and provide personalized feedback and guidance during gait training sessions, enhancing the effectiveness of rehabilitation.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -14,6 +10,12 @@ Gait analysis is a critical tool in clinical rehabilitation, offering valuable i
 4. [Procedures](#procedures)
 5. [Results](#results)
 6. [Discussion and Conclusion](#discussion-and-conclusion)
+
+
+## Introduction
+
+Gait analysis is a critical tool in clinical rehabilitation, offering valuable insights into human movement during walking and aiding in the assessment of functional limitations and impairments following injury, illness, or surgery. This project aims to develop a real-time gait analysis system using 3D augmented reality body tracking with the Microsoft Azure Kinect camera. The system utilizes machine learning to classify gait phases and provide personalized feedback and guidance during gait training sessions, enhancing the effectiveness of rehabilitation.
+
 
 ## Features
 
